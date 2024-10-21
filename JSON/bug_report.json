@@ -1,1 +1,12 @@
-
+{
+"ID": "123",
+"Severity": "Critical",
+"Priority": "High",
+"Title": "The application crashes when trying to log in via Google",
+"Preconditions": "User is not authorized", 
+"Steps to reproduce": "1. Open authorization form, 2. Tap on the button Sign in with Google",
+"Expected result": "User is authorized",
+"Actual result": "The application crashes",
+"Environment": "Android 13",
+"Link": "Link"
+}
