@@ -1,5 +1,5 @@
 Surname: Samuilova
 Name: Elena
 Age: 41 
-The number of pets: 1
-Expected salary: 500 USD
+The number of pets: 2
+Expected salary: 1000 USD
