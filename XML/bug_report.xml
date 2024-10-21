@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bugReport>
+<ID>123</ID>
+<Severity>Critical</Severity>
+<Priority>High</Priority>
+<Title>The application crashes when trying to log in via Google</Title>
+<Preconditions>User is not authorized</Preconditions> 
+<StepsToReproduce>1. Open authorization form, 2. Tap on the button Sign in with Google</StepsToReproduce>
+<ExpectedResult>User is authorized</ExpectedResult>
+<ActualResult>The application crashes</ActualResult>
+<Environment>Android 13</Environment>
+<Link>Link</Link>
+</bugReport>
