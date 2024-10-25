@@ -1,0 +1,14 @@
+ID: 
+Project
+Version
+Environment
+Severity 
+Priority
+Status 
+Title 
+Preconditions  
+Steps to reproduce
+Expected result
+Actual result
+Link
+Comments
